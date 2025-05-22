@@ -50,15 +50,16 @@ In this lab, I practiced more than just writing queries—I practiced critical t
 
 ---
 
-## 📂 Screenshots
+### 📂 Screenshots
 
-| Step | Description | File |
-|------|-------------|------|
-| 1 | Sentinel main dashboard | `01_sentinel_dashboard.png` |
-| 2 | Logs section open | `02_logs_blade_open.png` |
-| 3 | Created sample dataset | `03_sample_data_created.png` |
-| 4 | Ran detection query | `04_suspicious_login_query.png` |
-| 5 | Saved query as legacy | `05_saved_query_fee_labs.png` |
+| Step | Description | Screenshot |
+|------|-------------|------------|
+| 1 | Sentinel main dashboard | ![01_sentinel_dashboard](./screenshots/01_sentinel_dashboard.png) |
+| 2 | Logs section open | ![02_logs_blade_open](./screenshots/02_logs_blade_open.png) |
+| 3 | Created sample dataset | ![03_sample_data_created](./screenshots/03_sample_data_created.png) |
+| 4 | Ran detection query | ![04_suspicious_login_query](./screenshots/04_suspicious_login_query.png) |
+| 5 | Saved query as legacy | ![05_saved_query_fee_labs](./screenshots/05_saved_query_fee_labs.png) |
+
 
 ---
 
